@@ -29,12 +29,15 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- Level 1: Team-level triage in daily standup — **Owner: Scrum Master / Delivery Lead**
+- Level 2: PM escalates to Product Lead and dependent teams — **Owner: Project Manager**
+- Level 3: Sponsor-level escalation for business-impacting issues — **Owner: Project Manager + Sponsor**
+
+Log all unresolved blockers as Issues in the [RAID Log](octoacme-raid-log-template.md).
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] RAID Log created and reviewed weekly — see [RAID Log Template](octoacme-raid-log-template.md)
+- [ ] Definition of Ready and Definition of Done agreed — see [DoR & DoD](octoacme-definition-of-ready-and-done.md)
