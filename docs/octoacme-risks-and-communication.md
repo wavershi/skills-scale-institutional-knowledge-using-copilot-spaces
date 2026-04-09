@@ -4,7 +4,7 @@
 Explain how to identify, manage, and communicate risks and dependencies.
 
 ## Risk Register
-Maintain a simple table with:
+Maintain a RAID Log (Risks, Assumptions, Issues, Dependencies) using the [RAID Log Template](octoacme-raid-log-template.md). At minimum, track:
 - ID
 - Description
 - Impact (High/Med/Low)
@@ -23,6 +23,9 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Complete a [Communication Plan](octoacme-communication-plan-template.md) during project initiation and keep it current
+
+> **Owner**: Project Manager is responsible for maintaining the communication plan and ensuring updates are sent on schedule.
 
 ## Communication Templates
 Weekly Status Template:

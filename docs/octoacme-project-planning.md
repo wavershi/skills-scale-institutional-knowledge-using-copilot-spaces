@@ -12,7 +12,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 1. Kickoff meeting with stakeholders and delivery team
 2. Create prioritized backlog with acceptance criteria
 3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
+4. Define Definition of Ready (DoR) and Definition of Done (DoD) — see [DoR & DoD](octoacme-definition-of-ready-and-done.md)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
@@ -31,7 +31,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
+- Capture all risks, assumptions, issues, and dependencies in the [RAID Log](octoacme-raid-log-template.md):
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
@@ -39,5 +39,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Ready and Definition of Done documented — see [DoR & DoD](octoacme-definition-of-ready-and-done.md)
+- [ ] RAID Log created — see [RAID Log Template](octoacme-raid-log-template.md)
 - [ ] Initial test plan / QA approach drafted

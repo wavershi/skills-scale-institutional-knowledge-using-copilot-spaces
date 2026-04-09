@@ -14,7 +14,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Minimum Deliverables
 - Project One-pager (Problem, Goal, Success Metrics)
-- Stakeholder list & communication plan
+- Stakeholder list & communication plan _(use the [Communication Plan Template](octoacme-communication-plan-template.md))_
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
@@ -27,7 +27,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: _(refer to [Roles & Personas](octoacme-roles-and-personas.md) for role definitions)_
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
